@@ -1,0 +1,7 @@
+org.springframework.context.ApplicationContextInitializer=\
+xin.hesperus.boot.ch1.initializer.MyContextInitializer
+
+
+org.springframework.context.ApplicationListener=\
+xin.hesperus.boot.ch1.listener.MyListener
+xin.hesperus.boot.ch4.listener.CustomWebListener
